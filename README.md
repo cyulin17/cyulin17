@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 😊 About Me
 -
-I am ChiaYu, a web developer. 
+I am ChiaYu, a web developer based in southern California. 
 
 Fun Facts:
 - I speak Mandarin, English and Japanese.
