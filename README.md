@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 ### Hi there 👋
 ---
 
-💻 Tools: JavaScript, React.js, Node.js, HTML5, CSS3, Express, npm, PostgreSQL, Git, GitHub.
+💻 Stack: JavaScript, React, Node.js, HTML5, CSS3, Express
+
+:hammer_and_wrench: Tools: Bootstrap, npm, PostgreSQL, Git, GitHub, Babel, Webpack, Slack
 
 😊 About Me
 -
-I am ChiaYu, a web developer based in southern California. 
+I am ChiaYu, a web developer based in southern California. I know HTML, CSS and JavaScript and React and I am activtly learning anything. 
 
 Fun Facts:
 - I speak Mandarin, English and Japanese.
