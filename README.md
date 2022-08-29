@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 ### Hi there 👋
 ---
 
-💻 Stack: JavaScript, React, Node.js, HTML5, CSS3, Express
+💻 Stack: JavaScript, React, Node.js, HTML5, CSS3, Express, PostgreSQL
 
-:hammer_and_wrench: Tools: Bootstrap, npm, PostgreSQL, Git, GitHub, Babel, Webpack, Slack
+:hammer_and_wrench: Tools: Bootstrap, npm, Git, GitHub, Babel, Webpack, Slack
 
 😊 About Me
 -
